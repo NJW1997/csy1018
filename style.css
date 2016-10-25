@@ -5,12 +5,26 @@
 }
 /* Base Typography */
 body{
-     font-family: helvetica, arial, sans-serif;
-     font-size: 14px;
-     line-height: 21px;
-     background-color: rgb(185, 255, 255);
-     padding: 30px;
-     color: #334 ;
+     font-size: 10px;
+     background: rgb(149, 194, 215)
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .logo-text{
+    background: white;
+    font-family: 'Lobster Two',cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Mogra', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 37px
+  }
+
+  .thumbnail-item {
+    border: 1px solid rgba(100%, 100%, 100%, 0.8);
   }
 
 /* Base Typography */
@@ -53,6 +67,14 @@ h1, h2, h3 {
 
 h1 {
   font-family: 'Bungee Shade', cursive;
+}
+
+h2{
+  font-family: 'Mogra', cursive;
+}
+
+h3{
+  font-family: 'Mogra', cursive;
 }
 
 /* Paragraph Style */
