@@ -1,0 +1,96 @@
+/* First Stylesheet */
+* {
+  Margin: 10 10;
+  padding: 0
+}
+/* Base Typography */
+body{
+     font-size: 10px;
+     background: rgb(149, 194, 215)
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .logo-text{
+    background: white;
+    font-family: 'Lobster Two',cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Mogra', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 37px
+  }
+
+  .thumbnail-item {
+    border: 1px solid rgba(100%, 100%, 100%, 0.8);
+  }
+
+/* Base Typography */
+
+p{
+  font-family: helvetica, arial, sans-serif;
+  font-size: 21px;
+  line-height: 21px;
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+  color: #334 ;
+}
+
+/* Base Typography */
+
+ol{
+  font-family: arial;
+  font-size: 14px;
+  line-height: 21px;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  color: #334 ;
+
+}
+
+ul{
+  font-family: times;
+  font-size: 14px;
+  line-height: 21px;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  color: #334 ;
+}
+
+/* Heading Style */
+
+h1, h2, h3 {
+     margin-top: 25px;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+}
+
+h2{
+  font-family: 'Mogra', cursive;
+}
+
+h3{
+  font-family: 'Mogra', cursive;
+}
+
+/* Paragraph Style */
+
+p{
+  font-family: 'Lobster Two', cursive;
+}
+
+/* Ordered list style */
+
+ol{
+  font-family: 'Lobster Two', cursive;
+}
+
+/* Unordered list style */
+
+ul{
+  font-family: 'Lobster Two', cursive;
+}
